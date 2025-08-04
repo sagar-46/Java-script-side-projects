@@ -94,7 +94,7 @@ body{
 .progress{
     height: 100%;
     background-color: #e86a33;
-    width: 50%;
+    width: 0%;
     transition: width 0.3s ease;
 }
 #result-screen h1{
