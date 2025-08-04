@@ -22,7 +22,7 @@ body{
     position: relative;
 }
 .screen{
-    /* display: none; */
+    display: none;
     padding: 2rem;
     text-align: center;
 }
@@ -61,7 +61,7 @@ body{
     margin-bottom: 25px;
 }
 .answer-btn{
-    border-color: #f8f0e5;
+    background-color: #f8f0e5;
     color: #333;
     border: 2px solid #eadbc8;
     border-radius: 10px;
@@ -94,7 +94,7 @@ body{
 .progress{
     height: 100%;
     background-color: #e86a33;
-    width: 0%;
+    width: 50%;
     transition: width 0.3s ease;
 }
 #result-screen h1{
